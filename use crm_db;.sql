@@ -1,0 +1,14 @@
+use crm_db;
+-- CREATE TABLE client(
+--     id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+--     name VARCHAR(50),
+--     email VARCHAR(40),
+--     first_contact DATETIME,
+--     email_type CHAR,
+--     sold BOOLEAN,
+--     owner VARCHAR(50),
+--     country VARCHAR(50)
+-- )
+-- ALTER TABLE client
+-- MODIFY COLUMN first_contact VARCHAR(30)
+-- SELECT CURRENT_TIMESTAMP
